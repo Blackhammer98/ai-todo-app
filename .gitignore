@@ -1,0 +1,34 @@
+# Python
+*.pyc
+__pycache__/
+.pytest_cache
+.ven
+.env
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Tests
+tests/
+
+# Data
+data/
+*.csv
+*.xlsx
+
+# Temporary files
+*.tmp
+*~
